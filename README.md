@@ -8,6 +8,14 @@ Not just tools, but spaces. Not just components, but extensions of thought.
 
 > _“Each extension is a thought. Each interface is a gesture.”_
 
+
+---
+
+### 🌐 Available translations
+
+- 🇬🇧 English – [README.md](./README.md)
+- 🇮🇹 Italiano – [README.it.md](./README.it.md)
+
 ---
 
 ## 🧠 What is KIMU
