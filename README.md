@@ -1,134 +1,134 @@
 # 🌬️ KIMU — Keep It Minimal UI
 
-**KIMU** è un framework front-end leggero, minimale e modulare per costruire **interfacce poetiche ed estensibili**.  
-Basato su **Web Components**, senza dipendenze, dichiarativo, dinamico.  
-Per chi disegna con **intenzione**. Per chi costruisce con **cura**.  
-Nasce per chi vuole creare applicazioni leggere, eleganti, viventi.  
-Non solo strumenti, ma spazi. Non solo componenti, ma estensioni di pensiero.
+**KIMU** is a lightweight, minimal, and modular front-end framework for building **poetic and extensible interfaces**.  
+Based on **Web Components**, with no external dependencies, declarative and dynamic by design.  
+For those who design with **intention**. For those who build with **care**.  
+Created for anyone who wants to build applications that are light, elegant, alive.  
+Not just tools, but spaces. Not just components, but extensions of thought.
 
-> _“Ogni estensione è un pensiero. Ogni interfaccia è un gesto.”_
-
----
-
-## 🧠 Cos’è KIMU
-
-KIMU è un **framework frontend web-native**, pensato per realizzare applicazioni modulari, interfacce sottili, ambienti flessibili.
-
-- 🔹 **Web Components** nativi  
-- 🔹 **Nessuna dipendenza** esterna  
-- 🔹 **Estensioni dinamiche**, isolate, autocaricanti  
-- 🔹 **Sistema dichiarativo**, leggero, componibile  
-- 🔹 **Struttura modulare**, ispirata a una filosofia chiara e leggibile
-
-> _“Non impone: accompagna. Non grida: respira.”_
+> _“Each extension is a thought. Each interface is a gesture.”_
 
 ---
 
-## 🧩 Il cuore: `kimu-core`
+## 🧠 What is KIMU
 
-[`kimu-core`](https://github.com/unicoverso/kimu-core) è il nucleo del framework:  
-un motore piccolo, aperto, pronto a essere esteso con moduli che rispettano una filosofia:  
-**leggerezza, chiarezza, armonia**.
+KIMU is a **web-native front-end framework**, designed to create modular applications, subtle interfaces, and flexible environments.
 
-Offre tutto ciò che serve per avviare, caricare e orchestrare estensioni modulari, interfacce dichiarative, comportamenti reattivi e stili condivisi.
+- 🔹 Native **Web Components**  
+- 🔹 **No external dependencies**  
+- 🔹 **Dynamic extensions**, isolated and self-loading  
+- 🔹 **Declarative system**, lightweight and composable  
+- 🔹 **Modular structure**, guided by a clear and readable philosophy
 
-- Nessuna dipendenza imposta  
-- Ogni componente è un’estensione  
-- Tutto si adatta a ciò che serve, e nulla di più
-
-> Ogni interfaccia diventa un ecosistema vivo, fatto di elementi modulari che si parlano, crescono, si fondono.
+> _“It does not impose: it accompanies. It does not shout: it breathes.”_
 
 ---
 
-## ✨ Perché scegliere KIMU
+## 🧩 The heart: `kimu-core`
 
-- Per creare **applicazioni kiosk**, dashboard, ambienti esperienziali, anche embedded  
-- Per costruire **interfacce leggere, personalizzate**, adatte a musei, scuole, dispositivi fisici  
-- Per mantenere **leggerezza e coerenza visiva** in ogni contesto  
-- Per esplorare un **design minimale, sensato e modulare**  
-- Per progettare **ambienti digitali che rispettano spazio, tempo e attenzione**  
-- Per dare forma a **idee che respirano**  
-- Perché **il software può essere poetico**
+[`kimu-core`](https://github.com/unicoverso/kimu-core) is the core of the framework:  
+a small, open engine, ready to be extended with modules that follow a philosophy of  
+**lightness, clarity, harmony**.
 
----
+It offers everything you need to launch, load and orchestrate modular extensions, declarative interfaces, reactive behaviors and shared styles.
 
-## 🔍 Filosofia
+- No forced dependencies  
+- Every component is an extension  
+- Everything adapts to what’s needed — and nothing more
 
-KIMU nasce da una visione:
-
-> _Costruire non solo codice,_  
-> _ma strumenti leggeri per toccare il mondo digitale con umanità._
-
-- **Modulare per natura** – ogni pezzo può essere aggiunto, rimosso, combinato  
-- **Minimale per scelta** – solo ciò che serve  
-- **Umano per vocazione** – le interfacce sono forme di relazione
+> Every interface becomes a living ecosystem, made of modular elements that speak, grow, and merge.
 
 ---
 
-## 🌱 Un progetto di UnicòVerso
+## ✨ Why choose KIMU
 
-KIMU è uno dei progetti di **UnicòVerso**, un laboratorio poetico di innovazione creativa.  
-KIMU è nato da un’idea, un’esigenza, una visione.  
-È interamente ideato, progettato e sviluppato da **Marco (Hocram) Di Pasquale**,  
-all’interno del collettivo creativo **[UnicòVerso](https://unicoverso.com)**.
+- To build **experiential apps** for kiosks, dashboards, embedded devices, exhibitions  
+- To create **lightweight, customized interfaces** for schools, museums, physical devices  
+- To maintain **visual lightness and consistency** in any context  
+- To explore a **minimal, intentional, and modular design**  
+- To design **digital environments that respect space, time, and attention**  
+- To give shape to **ideas that breathe**  
+- Because **software can be poetic**
 
-📍 Scopri la visione completa (sito in costruzione):  
+---
+
+## 🔍 Philosophy
+
+KIMU is born from a vision:
+
+> _To build not just code,_  
+> _but lightweight tools to touch the digital world with humanity._
+
+- **Modular by nature** – each piece can be added, removed, or combined  
+- **Minimal by choice** – only what is needed  
+- **Human by vocation** – interfaces are a form of relationship
+
+---
+
+## 🌱 A project by UnicòVerso
+
+KIMU is one of the projects of **UnicòVerso**, a poetic lab for creative innovation.  
+KIMU was born from an idea, a need, a vision.  
+It is entirely imagined, designed and developed by **Marco (Hocram) Di Pasquale**,  
+within the creative collective **[UnicòVerso](https://unicoverso.com)**.
+
+📍 Discover the full vision (website under construction):  
 🔗 [https://unicoverso.com](https://unicoverso.com)
 
-📧 Contatti: [info@unicoverso.com](mailto:info@unicoverso.com)
+📧 Contact: [info@unicoverso.com](mailto:info@unicoverso.com)
 
 ---
 
-## 📦 Repository principali
+## 📦 Main repositories
 
-🔹 [`kimu-core`](https://github.com/unicoverso/kimu-core) — motore base del framework  
-*(Altri repository saranno collegati qui a tempo debito…)*
+🔹 [`kimu-core`](https://github.com/unicoverso/kimu-core) — the core engine of the framework  
+*(More repositories will be linked here over time…)*
 
 ---
 
-## 🧭 Altri progetti in arrivo…
+## 🧭 Upcoming projects…
 
-KIMU è solo l’inizio. Attorno al suo cuore cresceranno strumenti e visioni.  
-Ogni progetto è un ramo, ogni ramo può fiorire.
+KIMU is just the beginning. Around its heart, tools and visions will grow.  
+Each project is a branch — and each branch can bloom.
 
 🌿 **kimu-app-startup**  
-Boilerplate minimale per iniziare da zero.  
-Per chi vuole costruire la propria app con il minimo necessario e la massima chiarezza.
+A minimal boilerplate to start from scratch.  
+For those who want to build their app with the bare essentials and maximum clarity.
 
 🖥️ **kimu-kiosk-app**  
-Demo realistica di un'applicazione KIMU per ambienti pubblici, totem, mostre.  
-Include estensioni base come orologio, meteo, slideshow.
+A realistic demo of a KIMU application for public spaces, totems, exhibitions.  
+Includes base extensions like clock, weather, and slideshow.
 
 🧪 **kimu-playground**  
-Un editor visuale per creare, modificare e testare estensioni dal browser.  
-Una finestra dinamica sul motore interno di KIMU.
+A visual editor to create, modify and test extensions directly in the browser.  
+A dynamic window into the inner workings of KIMU.
 
 🛍️ **kimu-marketplace**  
-Un’interfaccia per esplorare e installare estensioni ufficiali e community.  
-Un futuro ecosistema modulare, federato, libero.
+An interface to browse and install official and community extensions.  
+A future modular, federated, open ecosystem.
 
 📚 **kimu-docs**  
-La documentazione ufficiale, scritta con chiarezza e cura.  
-Per imparare KIMU con leggerezza.
+The official documentation, written with clarity and care.  
+To learn KIMU lightly and peacefully.
 
 🎨 **kimu-design-system**  
-Palette, tipografia, componenti UI condivisi.  
-Per garantire coerenza e bellezza tra tutte le estensioni.
+Palette, typography, shared UI components.  
+To ensure consistency and beauty across all extensions.
 
 🧰 **kimu-cli**  
-Un piccolo strumento da terminale per creare, validare e sviluppare estensioni con pochi comandi.
+A tiny terminal tool to create, validate and develop extensions with just a few commands.
 
 ---
 
-> KIMU non è un prodotto.  
-> È un invito. Un'idea. Un modo per costruire software che respira.
+> KIMU is not a product.  
+> It’s an invitation. An idea. A way to build software that breathes.
 
 ---
 
-## 🖋️ Licenza
+## 🖋️ License
 
-Tutti i contenuti non eseguibili (documentazione, filosofia, struttura) sono distribuiti sotto:  
+All non-code content (documentation, philosophy, structure) is released under:  
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-Vedi il file [`LICENSE`](./LICENSE) per i dettagli.
+See [`LICENSE`](./LICENSE) for details.
 
 ---
