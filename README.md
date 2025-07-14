@@ -4,6 +4,7 @@
   </a>
 </p>
 
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)
 ![License: MPL-2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg)
 ![Build size: <20kB](https://img.shields.io/badge/core%20build-<20kB-blue.svg)
 ![Web Components](https://img.shields.io/badge/web--components-native-blueviolet)
