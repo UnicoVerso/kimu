@@ -296,16 +296,30 @@ Follow us for updates, new extensions, and upcoming tools.
 
 ## 🖋️ License
 
-`KIMU` is released under the [Mozilla Public License 2.0 (MPL-2.0)](./LICENSE).  
-You are free to use, modify, and redistribute the code, respecting the terms of this license, as long as changes to MPL-covered files remain public under the same license.
+All non-executable content of the `KIMU` project  
+(documentation, philosophy, structure) is licensed under  
+[Creative Commons Attribution 4.0 International](./LICENSE) (CC BY 4.0).  
+You are free to copy, modify, and reuse it — even for commercial purposes —  
+as long as proper credit is given to the original author.
 
-For additional information on attribution, contributions, and naming, please refer to the [NOTICE file](./NOTICE).
+The source code of `KIMU`, including the `kimu-core` framework,  
+is released under the [Mozilla Public License 2.0 (MPL-2.0)](./LICENSE).  
+You are free to use, modify, and redistribute the code,  
+as long as any changes to MPL-covered files are made public under the same license.
+
+For more information about attribution, contributions, and name usage, see the [NOTICE](./NOTICE) file.
 
 See the [`LICENSE`](./LICENSE) file for full details.
 
-All non-code content (documentation, philosophy, structure) is released under:  
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-See [`LICENSE`](./LICENSE) for details.
+
+
+---
+
+
+## 🏷️ Naming and Attribution
+
+"KIMU", "KIMU-CORE" and "UnicòVerso" are part of a creative ecosystem led by the original author.  
+Please refer to the [`NOTICE`](./NOTICE) for appropriate use of names and trademarks.
 
 
 ---
@@ -327,6 +341,10 @@ Explore the subprojects, follow the evolution, and help us shape a different, es
 📬 Want to stay updated on `KIMU`?  
 > Follow [@UnicoVerso](https://github.com/unicoverso) on GitHub or subscribe to the upcoming newsletter!
 
+<p>
+  <img src="icon.svg" alt="KIMU Icon" width="24" style="vertical-align: middle; margin-right: 8px;" />
+  Happy coding. Play, create, stay light. Welcome to `KIMU`!
+</p>
+
 
 ---
-

@@ -299,16 +299,28 @@ Continua a seguirci per aggiornamenti, nuove estensioni e strumenti in arrivo.
 
 ## 🖋️ Licenza
 
-`KIMU` è rilasciato sotto [Mozilla Public License 2.0 (MPL-2.0)](./LICENSE).  
-Sei libero di usare, modificare e ridistribuire il codice, nel rispetto di questa licenza, a condizione che le modifiche ai file coperti dalla MPL restino pubbliche con la stessa licenza.
+Tutti i contenuti non eseguibili  del progetto `KIMU` 
+(documentazione, filosofia, struttura) sono distribuiti sotto:  
+[Creative Commons Attribuzione 4.0 Internazionale](./LICENSE) (CC BY 4.0).  
+Puoi copiarla, modificarla e riutilizzarla, anche per scopi commerciali, citando l’autore originale.
+
+Il codice sorgente di `KIMU`, incluso il framework `kimu-core`, 
+è rilasciato sotto [Mozilla Public License 2.0 (MPL-2.0)](./LICENSE).  
+Sei libero di usare, modificare e ridistribuire il codice, nel rispetto di questa licenza, 
+a condizione che le modifiche ai file coperti dalla MPL restino pubbliche con la stessa licenza.
 
 Per maggiori dettagli su attribuzione, contributi e utilizzo dei nomi, consulta il file [NOTICE](./NOTICE).
 
 Consulta il file [`LICENSE`](./LICENSE) per tutti i dettagli.
 
-Tutti i contenuti non eseguibili (documentazione, filosofia, struttura) sono distribuiti sotto:  
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-Vedi il file [`LICENSE`](./LICENSE) per i dettagli.
+
+---
+
+
+## 🏷️ Nomi e attribuzioni
+
+"KIMU", "KIMU-CORE" e "UnicòVerso" sono nomi creativi associati all'autore originale.  
+Consulta il file [`NOTICE`](./NOTICE) per un uso corretto in progetti derivati.
 
 
 ---
@@ -330,6 +342,10 @@ Esplora i sottoprogetti, segui l’evoluzione e costruisci con noi un framework 
 📬 Vuoi restare aggiornato su `KIMU`?  
 > Segui [@UnicoVerso](https://github.com/unicoverso) su GitHub o iscriviti alla newsletter (in arrivo!).
 
+<p>
+  <img src="icon.svg" alt="KIMU Icon" width="24" style="vertical-align: middle; margin-right: 8px;" />
+  Happy coding. Gioca, crea, immagina. Benvenuto su `KIMU`.
+</p>
+
 
 ---
-

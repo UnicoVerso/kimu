@@ -1,36 +1,32 @@
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-===========================================================
+# Licenses of KIMU - Keep It Minimal UI Framework
 
-This work is licensed under the Creative Commons Attribution 4.0 International License.  
-To view a copy of this license, visit: https://creativecommons.org/licenses/by/4.0/
+## 📚 Documentation License — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The documentation for the KIMU project is licensed under the  
+[Creative Commons Attribution 4.0 International](CC-BY-4.0.txt) (CC BY 4.0) license.
+
+To view a copy of this license online:  
+🔗 https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## ⚙️ Source Code License
+
+For source code, refer to each sub-project’s specific license.  
+In particular, the core framework (`kimu-core`) is licensed under the  
+[Mozilla Public License 2.0](kimu-core/MPL-2.0.txt) (MPL-2.0).
+
+---
+
+## 📜 Project License Overview
+
+| Sub-project       | License      | Description                            |
+|-------------------|--------------|----------------------------------------|
+| [kimu](https://github.com/unicoverso/kimu)           | CC BY 4.0     | Project presentation and general docs   |
+| [kimu-docs](https://github.com/unicoverso/kimu-docs) | CC BY 4.0     | Technical documentation and guides      |
+| [kimu-core](https://github.com/unicoverso/kimu-core) | MPL-2.0       | Main codebase of the KIMU framework     |
 
 ---
 
 © 2025 – UnicòVerso – Marco (Hocram) Di Pasquale  
-https://unicoverso.com · info@unicoverso.com
-
-You are free to:
-
-✔ Share — copy and redistribute the material in any medium or format  
-✔ Adapt — remix, transform, and build upon the material for any purpose, even commercially
-
-Under the following terms:
-
-✔ Attribution — You must give appropriate credit, provide a link to the license,  
-and indicate if changes were made. You may do so in any reasonable manner,  
-but not in any way that suggests the licensor endorses you or your use.
-
----
-
-No additional restrictions — You may not apply legal terms or technological measures  
-that legally restrict others from doing anything the license permits.
-
----
-
-This license applies to all non-code content in this repository, including but not limited to:
-
-- README.md  
-- PROJECTS.md  
-- VERSIONS.md  
-
-For source code, refer to each sub-project’s specific license.
+🌐 [unicoverso.com](https://unicoverso.com) • 📧 info@unicoverso.com
