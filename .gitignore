@@ -1,0 +1,41 @@
+# TMP directories
+/TMP
+/_TMP
+
+# Dependency folders
+node_modules
+dist
+dist-ssr
+.build
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS temporary files
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux temporary files
+*~
+.cache
