@@ -19,13 +19,15 @@ Based on **Web Components**, with no external dependencies, declarative and dyna
 
 Created for anyone who wants to build applications that are light, elegant, alive.
 For those who design with **intention**.  
-For those who build with **care**.    
+For those who build with **care**.  
 Not just tools, but spaces. Not just components, but extensions of thought.
 
 > _“Each extension is a thought. Each interface is a gesture.”_
 
-Created by Marco Di Pasquale (a.k.a. *Hocram*), [UnicòVerso](https://unicoVerso.org): to build lightweight, elegant, and responsive web interfaces.
+Created by **Marco Di Pasquale** (aka *Hocram*), [UnicòVerso](https://unicoVerso.org): to create lightweight, elegant and reactive web interfaces.
 
+🚀 **Get started now:**  
+> <img src="icon.svg" alt="KIMU Icon" width="24" style="vertical-align: middle;" /> Use the [`kimu-core`](https://github.com/unicoverso/kimu-core) repository as a base to develop your KIMU application. You'll find everything you need to create extensions, modules, and start a minimal project.
 
 ---
 
@@ -43,7 +45,7 @@ Created by Marco Di Pasquale (a.k.a. *Hocram*), [UnicòVerso](https://unicoVerso
 
 - 🌐 Official Website: [unicoverso.com/kimu](https://unicoverso.com/kimu)
 - 📘 Documentation: [kimu-docs](https://github.com/unicoverso/kimu-docs)
-- 🧠 Core Project: [kimu-core](https://github.com/unicoverso/kimu-core)
+- <img src="icon.svg" alt="KIMU Icon" width="24" style="vertical-align: middle;" /> Framework Core Project: [kimu-core](https://github.com/unicoverso/kimu-core)
 
 
 ---
@@ -250,20 +252,21 @@ Follow us for updates, new extensions, and upcoming tools.
 - [x] Asset and manifest management
 - [x] Local development with Vite + TypeScript
 - [x] Support for multiple environment configs (`dev`, `prod`, `local`, etc.)
-- [x] Notifications, overlay, modal support, and base interfaces
+- [x] Notifications, overlay, modal support and base interfaces
 - [x] Initial documentation (`get-started-en`)
 - [x] Minimal demo extension `hello-app`
 - [x] Code licensed under MPL-2.0
 - [x] Project files [`README`, `LICENSE`, `CODE_OF_CONDUCT`, etc.]
+- [x] `kimu-docs`: **(work in progress)** full online documentation with examples
+- [x] Module, Helper, and Service management system
+- [x] i18n internationalization module
 
 ### 🚧 In Development
 
-- [ ] `kimu-docs`: full online documentation with examples
 - [ ] `kimu-demo`: demo app with extensions, modules, and helpers
 - [ ] `kimu-playground`: visual extension editor and in-browser JS extension builder
 - [ ] `kimu-cli`: terminal tool to generate and validate extensions
 - [ ] Design System for managing color palettes, typography, and shared UI components
-- [ ] Module, Helper, and Service management system
 - [ ] Support for core modules (`i18n`, `notification`, `state`, etc.)
 - [ ] Communication system between extensions (`EventBus`, global services, etc.)
 - [ ] Authentication and session management system

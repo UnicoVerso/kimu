@@ -21,12 +21,13 @@ Nasce per chi vuole creare applicazioni leggere, eleganti, viventi.
 Per chi progetta con **intenzione**.  
 Per chi costruisce con **cura**.  
 Non solo strumenti, ma spazi. Non solo componenti, ma estensioni di pensiero.
-  
 
 > _“Ogni estensione è un pensiero. Ogni interfaccia è un gesto.”_
 
 Creato da  **Marco Di Pasquale** (alias *Hocram*), [UnicòVerso](https://unicoVerso.org): per realizzare interfacce web leggere, eleganti e reattive.
 
+🚀 **Per iniziare subito:**  
+> <img src="icon.svg" alt="KIMU Icon" width="24" style="vertical-align: middle;" /> Usa il repository [`kimu-core`](https://github.com/unicoverso/kimu-core) come base per sviluppare la tua applicazione KIMU. Troverai tutto il necessario per creare estensioni, moduli e avviare un progetto minimale.
 
 ---
 
@@ -42,9 +43,10 @@ Creato da  **Marco Di Pasquale** (alias *Hocram*), [UnicòVerso](https://unicoVe
 
 ### 🔗 Link utili
 
+
 - 🌐 Sito ufficiale: [unicoverso.com/kimu](https://unicoverso.com/kimu)
 - 📘 Documentazione: [kimu-docs](https://github.com/unicoverso/kimu-docs)
-- 🧠 Progetto core: [kimu-core](https://github.com/unicoverso/kimu-core)
+- <img src="icon.svg" alt="KIMU Icon" width="24" style="vertical-align: middle;" /> Progetto core framework: [kimu-core](https://github.com/unicoverso/kimu-core)
 
 
 ---
@@ -174,7 +176,7 @@ Offre tutto ciò che serve per avviare, caricare e orchestrare estensioni modula
 
 - Nessuna dipendenza imposta  
 - Ogni componente è un’estensione  
-- Tutto si adatta a ciò che serve, e nulla di più
+- Tutto si adatta a ciò che serve e nulla di più
 
 > Ogni interfaccia diventa un ecosistema vivo, fatto di elementi modulari che si parlano, crescono, si fondono.
 
@@ -257,15 +259,16 @@ Continua a seguirci per aggiornamenti, nuove estensioni e strumenti in arrivo.
 - [x] Estensione `hello-app`, minimale come demo
 - [x] Codice licenziato MPL-2.0
 - [x] File di progetto [`README`, `LICENSE`, `CODE_OF_CONDUCT`, ecc.]
+- [x] `kimu-docs`: **(work in progress)** documentazione completa online, con esempi
+- [x] Gestione Moduli, Helpers e servizi
+- [x] Modulo per l'internalizzazione i18n
 
 ### 🚧 In sviluppo
 
-- [ ] `kimu-docs`: documentazione completa online, con esempi
 - [ ] `kimu-demo`: app demo con estensioni, moduli e helper
 - [ ] `kimu-playground`: editor visuale di estensioni e creare estensioni JavaScript online
 - [ ] `kimu-cli`: tool da terminale per generare e validare estensioni
 - [ ] Design System per gestire palette colori, tipografia e componenti condivisi
-- [ ] Gestione Moduli, Helpers e servizi
 - [ ] Supporto per moduli interni (`i18n`, `notification`, `state`, ecc.)
 - [ ] Sistema di comunicazioni tra estensioni (`EventBus`, Servizi globali, ecc.)
 - [ ] Sistema di autenticazione e sessione
