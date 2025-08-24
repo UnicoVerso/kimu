@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://unicoverso.org/kimu" target="_blank">
+  <a href="https://unicoverso.com/kimu" target="_blank">
     <img src="logo_kimu.png" alt="KIMU Logo" width="180" />
   </a>
 </p>
@@ -24,7 +24,7 @@ Non solo strumenti, ma spazi. Non solo componenti, ma estensioni di pensiero.
 
 > _“Ogni estensione è un pensiero. Ogni interfaccia è un gesto.”_
 
-Creato da  **Marco Di Pasquale** (alias *Hocram*), [UnicòVerso](https://unicoVerso.org): per realizzare interfacce web leggere, eleganti e reattive.
+Creato da  **Marco Di Pasquale** (alias *Hocram*), [UnicòVerso](https://unicoverso.com): per realizzare interfacce web leggere, eleganti e reattive.
 
 🚀 **Per iniziare subito:**  
 > <img src="icon.svg" alt="KIMU Icon" width="24" style="vertical-align: middle;" /> Usa il repository [`kimu-core`](https://github.com/unicoverso/kimu-core) come base per sviluppare la tua applicazione KIMU. Troverai tutto il necessario per creare estensioni, moduli e avviare un progetto minimale.
@@ -331,7 +331,7 @@ Consulta il file [`NOTICE`](./NOTICE) per un uso corretto in progetti derivati.
 
 
 <p align="center">
-  <a href="https://unicoverso.org/kimu" target="_blank">
+  <a href="https://unicoverso.com/kimu" target="_blank">
     <img src="icon.svg" alt="KIMU Logo" width="120" />
   </a>
 </p>

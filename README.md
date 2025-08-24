@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://unicoverso.org/kimu" target="_blank">
+  <a href="https://unicoverso.com/kimu" target="_blank">
     <img src="logo_kimu.png" alt="KIMU Logo" width="180" />
   </a>
 </p>
@@ -24,7 +24,7 @@ Not just tools, but spaces. Not just components, but extensions of thought.
 
 > _“Each extension is a thought. Each interface is a gesture.”_
 
-Created by **Marco Di Pasquale** (aka *Hocram*), [UnicòVerso](https://unicoVerso.org): to create lightweight, elegant and reactive web interfaces.
+Created by **Marco Di Pasquale** (aka *Hocram*), [UnicòVerso](https://unicoverso.com): to create lightweight, elegant and reactive web interfaces.
 
 🚀 **Get started now:**  
 > <img src="icon.svg" alt="KIMU Icon" width="24" style="vertical-align: middle;" /> Use the [`kimu-core`](https://github.com/unicoverso/kimu-core) repository as a base to develop your KIMU application. You'll find everything you need to create extensions, modules, and start a minimal project.
@@ -330,7 +330,7 @@ Please refer to the [`NOTICE`](./NOTICE) for appropriate use of names and tradem
 
 
 <p align="center">
-  <a href="https://unicoverso.org/kimu" target="_blank">
+  <a href="https://unicoverso.com/kimu" target="_blank">
     <img src="icon.svg" alt="KIMU Logo" width="120" />
   </a>
 </p>
